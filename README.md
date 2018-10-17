@@ -14,7 +14,7 @@
 
 [SStap 原版(安装版)](https://dlc.ssrshare.xyz/list/32586/)
 
-[SSR 客户端（ iOS版）](https://www.lanzous.com/i131n6j)
+[SSR 客户端（ iOS版）](https://rss.myssr.club/downloads/Shadowrocket_2.1.12.ipa)
 
 ### Android谷歌框架安装
 [GooglePay商店安装](https://www.lanzous.com/b385143/)
