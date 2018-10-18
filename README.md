@@ -1,5 +1,4 @@
 ### 酸酸乳使用教程
-[酸酸乳使用教程(蓝奏云)](https://www.lanzous.com/b258733)
 
 [酸酸乳使用教程(腾讯微云)](https://share.weiyun.com/5q7G4tD)
 
