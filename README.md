@@ -13,7 +13,7 @@
 
 [SStap 优化版(便携版)](https://www.sockscap64.com/zh-hans/sstap/)
 
-[SSR 客户端（ iOS版）](https://rss.myssr.club/downloads/Shadowrocket_2.1.12.ipa)
+[SSR 客户端（ iOS版）](https://yadi.sk/d/PSHC5iYtsRlohQ)
 
 ### Android谷歌框架安装
 [GooglePay商店安装](https://www.lanzous.com/b385143/)
