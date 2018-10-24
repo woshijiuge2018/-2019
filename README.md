@@ -1,4 +1,4 @@
-伸手党特别多，连三岁小孩的智商都不如，连这样简单的都不会建议下载并使用傻瓜式一键登陆。
+伸手黨太多，連三歲小孩的智商都不如，如果連這樣簡單的都不會建議下載并使用Android傻瓜式一键登录。
 
 [Android傻瓜式一键登录](https://github.com/woshijiuge2018/preparation1/tree/master)
 
