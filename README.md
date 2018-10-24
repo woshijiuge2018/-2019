@@ -18,5 +18,5 @@
 ### Android谷歌框架安装
 [GooglePay商店安装](https://www.lanzous.com/b385143/)
 
-### 如果你想用高速且稳定的酸酸乳账号，建议自行购买VPS服务器搭建梯子，本站有[自己写的，适合新手的ssr搭建教程](https://github.com/jp4593425/USmilk/blob/master/README.md)，基本学一遍几分钟就可以搭建一个梯子。
+### 免费的不定期更新，如果你想用高速且稳定的酸酸乳账号，建议自行购买VPS服务器搭建梯子，本站有[自己写的，适合新手的ssr搭建教程](https://github.com/jp4593425/USmilk/blob/master/README.md)，基本学一遍几分钟就可以搭建一个梯子。
 ### 自建的优势：每月只需要5美元购买一个VPS，独享最高百兆一秒的下载速度。
