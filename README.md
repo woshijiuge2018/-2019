@@ -1,3 +1,5 @@
+[Android傻瓜式一键登录](https://github.com/woshijiuge2018/preparation1/tree/master)
+
 ### 酸酸乳使用教程
 
 [酸酸乳使用教程(腾讯微云)](https://share.weiyun.com/5q7G4tD)
