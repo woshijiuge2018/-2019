@@ -1,5 +1,7 @@
 [Android傻瓜式一键登录](https://github.com/woshijiuge2018/preparation1/tree/master)
 
+伸手党特别多，连三岁小孩的智商都不如，连这样简单的都不会建议下载并使用傻瓜式一键登陆。
+
 ### 酸酸乳使用教程
 
 [酸酸乳使用教程(腾讯微云)](https://share.weiyun.com/5q7G4tD)
