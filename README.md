@@ -1,4 +1,4 @@
-伸手黨太多，連三歲小孩的智商都不如，如果連這樣簡單的都不會建議下載并使用Android一鍵登録。
+伸手黨太多，連三歲小孩的智商都不如，如果連這樣簡單的都不會，建議下載并使用Android一鍵登録。
 
 [Android傻瓜式一键登录](https://github.com/woshijiuge2018/preparation1/blob/master/README.md)
 
