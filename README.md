@@ -1,6 +1,8 @@
-伸手党太多，连三岁小孩的智商都不如，如果连这样简单的都不会，建议下载并使用[Android傻瓜式一键登录] （https://yadi.sk/d/UI5GU3CstPz4-w），伸手党以下内容跟没看没有任何区别。看
 
+伸手党太多，连三岁小孩的智商都不如，如果连这样简单的都不会，建议下载并使用[Android傻瓜式一键登录](https://share.weiyun.com/5q7G4tD)。
+伸手黨請忽略以下內容。
 
+https://yadi.sk/d/UI5GU3CstPz4-w
 ### 酸酸乳使用教程
 
 [酸酸乳使用教程(腾讯微云)](https://share.weiyun.com/5q7G4tD)
