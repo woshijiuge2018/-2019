@@ -1,6 +1,4 @@
-伸手黨太多，連三歲小孩的智商都不如，如果連這樣簡單的都不會，建議下載并使用Android一鍵登録。
-
-[Android傻瓜式一键登录](https://github.com/woshijiuge2018/preparation1/blob/master/README.md)
+伸手黨太多，連三歲小孩的智商都不如，如果連這樣簡單的都不會，建議下載并使用[Android傻瓜式一键登录](https://yadi.sk/d/UI5GU3CstPz4-w)。
 
 
 ### 酸酸乳使用教程
@@ -23,7 +21,7 @@
 ### Android谷歌框架安装
 [GooglePay商店安装](https://www.lanzous.com/b385143/)
 
-### 免费酸酸乳账号二维码，通过酸酸乳客户端扫描即可访问自由网络，[点击进入：](https://juejin.im/post/5bd0e6e3f265da0af1617fdc)
+### 免费酸酸乳账号二维码，通过酸酸乳客户端扫描即可访问自由网络，[点击进入](https://juejin.im/post/5bd0e6e3f265da0af1617fdc)。
 
 
 ### 免费的不定期更新，多人同时使用可能掉线，如果你想用高速且稳定的酸酸乳账号，建议自行购买VPS服务器搭建梯子，本站有[自己写的，适合新手的ssr搭建教程](https://github.com/jp4593425/USmilk/blob/master/README.md)，基本学一遍几分钟就可以搭建一个梯子。
