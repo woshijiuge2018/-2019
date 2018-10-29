@@ -6,7 +6,7 @@
 
 [酸酸乳使用教程(腾讯微云)](https://share.weiyun.com/5q7G4tD)
 
-[酸酸乳使用教程(Onedrive)](https://1drv.ms/f/s!AmWIHMwCirfbc415hslnRCrXp5s)
+[酸酸乳使用教程(Onedrive)](https://1drv.ms/f/s!AmWIHMwCirfbhU9bwKDZPSyR8qCQ)
 
 ### 酸酸乳客户端DownLoad
 [SSR 客户端(PC版)](http://dixssr.tk/Proxy/ShadowsocksR/Windows/ShadowsocksR-win-4.9.0.zip)
