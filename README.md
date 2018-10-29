@@ -22,7 +22,7 @@
 ### Android谷歌框架安装
 [GooglePay商店安装](https://www.lanzous.com/b385143/)
 
-### 通过酸酸乳客户端扫描二维码或添加酸酸乳连接即可访问自由网络，[点击进入](https://juejin.im/post/5bd0e6e3f265da0af1617fdc)免费酸酸乳账号二维码。
+### 通过酸酸乳客户端扫描二维码或添加酸酸乳链接即可访问自由网络，[点击进入](https://juejin.im/post/5bd0e6e3f265da0af1617fdc)免费酸酸乳账号二维码。
 
 
 ### 免费的2～3天更新一次，超过人数上限可能会掉线，如果你想用高速且稳定的酸酸乳账号，建议自行购买VPS服务器搭建梯子，本站有[自己写的，适合新手的ssr搭建教程](https://github.com/jp4593425/USmilk/blob/master/README.md)，基本学一遍几分钟就可以搭建一个梯子。
